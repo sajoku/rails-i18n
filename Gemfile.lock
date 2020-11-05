@@ -45,7 +45,7 @@ GEM
       terminal-table
     iso (0.2.1)
       i18n
-    json (1.8.1)
+    json (2.3.1)
     minitest (4.7.5)
     multi_json (1.9.2)
     rack (1.5.2)
